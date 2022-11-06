@@ -1,0 +1,5 @@
+ability   skill
+absence   lack
+parth  vora
+small  dwarf
+large big
